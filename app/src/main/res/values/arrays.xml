@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>食物飲料;早餐,午餐,晚餐,飲料,點心;0;#AE00AE</item>
+        <item>服裝配件;上衣,褲子,鞋子,包包,飾品,內衣褲;1;#005AB5</item>
+        <item>居家生活;租屋,電費,水費,電話費,瓦斯費;2;#009393</item>
+        <item>交通運輸;汽油,公車,捷運,計程車,火車;3;#AD5A5A</item>
+        <item>休閒娛樂;遊戲,租片,音樂,電影;4;#AE57A4</item>
+        <item>教育學習;文具,書本,學費;5;#408080</item>
+    </string-array>
+
+    <string-array name="income_category">
+        <item>一般收入;公司薪資,打工兼差,零用錢,收取還款;6;#949449</item>
+        <item>投資收入;定存,股票,期貨,基金;7;#930093</item>
+    </string-array>
+    
+    <string-array name="quick_time_choose">
+        <item>本月</item>
+        <item>上個月</item>
+        <item>本年</item>
+        <item>去年</item>
+        <item>自訂</item>
+    </string-array>
+</resources>

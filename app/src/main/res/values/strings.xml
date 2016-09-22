@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">QuickCheck</string>
+    <string name="money_unit">NT$</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="account">帳戶</string>
+    <string name="note">註記</string>
+    <string name="price"><b>金額</b></string>
+    <string name="confirm">確認</string>
+    <string name="cancel">取消</string>
+    <string name="delete">刪除</string>
+    <string name="category">類別</string>
+    <string name="subcategory">品項</string>
+    <string name="outcome">支出</string>
+    <string name="income">收入</string>
+    <string name="all">全部</string>
+    <string name="sun">日</string>
+    <string name="mon">一</string>
+    <string name="tue">二</string>
+    <string name="wed">三</string>
+    <string name="thu">四</string>
+    <string name="fri">五</string>
+    <string name="sat">六</string>
+    <string name="category_warning">請輸入類別</string>
+    <string name="money_warning">請輸入金額</string>
+    <string name="back_today">回到今日</string>
+
+    <string name="routine_cost_earn">定期 花費/收入</string>
+    <string name="earn_category">收入類別</string>
+    <string name="cost_category">支出類別</string>
+    <string name="category_icon">類別圖示</string>
+    <string name="start">啟用</string>
+    <string name="widget">通知中心 widget</string>
+    <string name="num_row">顯示行數</string>
+    <string name="main_display">主要顯示</string>
+    <string name="main_currency">主要貨幣</string>
+    <string name="min_dot">最少小數點位數</string>
+    <string name="max_dot">最多小數點位數</string>
+    <string name="other_setting">其他設定</string>
+    <string name="in_and_out">匯出/匯入</string>
+    <string name="export_to_csv">匯出成CSV檔</string>
+    <string name="import_from_csv">從CSV檔匯入</string>
+    <string name="every">每</string>
+
+    <string name="edit_mode">正在編輯模式</string>
+
+</resources>

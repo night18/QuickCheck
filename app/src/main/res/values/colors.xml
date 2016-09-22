@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBlack">#000000</color>
+    <color name="alphaBlack">#99000000</color>
+
+    <color name="colorPrimary">#20a3a0</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorAutoTextBG">#6C6C6C</color>
+    <color name="background">#D2E9FF</color>
+    <color name="color_cost">#FF8000</color>
+    <color name="light_color_cost">#FFE0D1</color>
+    <color name="color_income">#32CD32</color>
+    <color name="light_color_income">#D1FFD3</color>
+    <color name="color_del">#AA0000</color>
+
+    <color name="today">#4b82ff</color>
+    <color name="greyed_out">#c7c7c7</color>
+</resources>
